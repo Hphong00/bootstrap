@@ -1,0 +1,29 @@
+/* nav */
+.nav-link{
+    color: black;
+}
+.textcontent{
+    width: 100%;
+    padding-top:50px ;
+    padding-bottom: 50px;
+}
+/* img content */
+.imgprpoduct{
+    width: 100%;
+}
+.imgcontent{
+    width: 24.7%;
+    height: 24%;
+    text-align: center;
+}
+/* footer */
+.foot{
+    color: black;
+}
+.container{
+    width: 100%;
+    font-size: 10px;
+}
+.text-reset{
+    color: black;
+}
